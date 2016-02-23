@@ -1,0 +1,6 @@
+app/Application.class
+controller/TaskController.class
+model/Task.class
+model/JsonMessage.class
+model/JsonModel.class
+model/TaskComparator.class

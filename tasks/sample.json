@@ -1,0 +1,8 @@
+{
+  "id":1,
+  "nome":"Nome da tarefa (obrigatório)",
+  "descricao":"Descrição da tarefa (opcional)",
+  "concluida":true,
+  "criacao":"1456248405462",
+  "modificada":"1456248405462"
+}
