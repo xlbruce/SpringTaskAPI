@@ -26,9 +26,7 @@ public class Task implements JsonModel {
 	}
 
 	public Task(String name, String description) {
-		Calendar c = Calendar.getInstance();
-		c.setTimeZone(TimeZone.getTimeZone("America/Sao_Paulo"));
-		Date now = c.getTime();
+		Date now = new Date();
 		this.id = now.getTime();
 		this.nome = name;
 		this.descricao = description;
